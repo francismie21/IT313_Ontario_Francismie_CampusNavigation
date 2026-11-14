@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Campus Connect",
+    "slug": "campus-connect-events",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.francismie.campusconnect"
+    },
+    "ios": {
+      "bundleIdentifier": "com.francismie.campusconnect"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
